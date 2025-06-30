@@ -2,15 +2,18 @@
 
 do it flutter practice code
 
-## Getting Started
+## Progress
 
-This project is a starting point for a Flutter application.
+6/25
+- 플러터, 안드로이드 스튜디오 설치
+- 기본 환경 세팅
+- 교재 3장, ~4.4장
 
-A few resources to get you started if this is your first Flutter project:
+6/29
+- 플러터 프로젝트 생성
+- 깃허브 연동
+- 교재 4.4~5.2장
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6/30
+- AVD 설정
+- 교재 4,5장 코드 실습
